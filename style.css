@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 :root{
-    --boole-points:"56";
-    --boole-width: 56%;
-    --hopper-points:"67";
-    --hopper-width:67%;
-    --torvalds-points:"65";
+    --boole-points:"82";
+    --boole-width: 62%;
+    --hopper-points:"97";
+    --hopper-width:80%;
+    --torvalds-points:"86";
     --torvalds-width:65%;
-    --lovelace-points:"102";
+    --lovelace-points:"132";
     --lovelace-width:90%;
 }
 *{
